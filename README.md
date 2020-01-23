@@ -4,6 +4,17 @@
 
 So that I can create back end javascript code I want to understand more about the node.js ecosystem.
 
+## How to Install
+
+- Install node.js globally on your computer.  
+- Clone this project from GitLab. 
+
+## How to Run
+
+```console
+$ node main.js
+```
+
 ## User Stories
 
 ### Story 1 - Basic HTTP Server
